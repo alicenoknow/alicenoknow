@@ -1,9 +1,20 @@
 <a href="https://alicenoknow.pl"><img src="shark.gif" width="100%" alt="A dithered blue whale shark swims in, eats the letters of 'alicja niewiadomska' and swims away."></a>
 
 <p align="center">
-  <a href="https://alicenoknow.pl"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/site-dark.svg"><img src="cards/site-light.svg" width="260" alt="alicenoknow.pl: my site, with projects and how-it's-built write-ups"></picture></a>
-  <a href="https://lekko.space"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/lekko-dark.svg"><img src="cards/lekko-light.svg" width="260" alt="lekko.space: Polish athletics results in a 3D stadium"></picture></a>
-  <a href="https://play.google.com/store/apps/details?id=com.alicenoknow.kingscup"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/kingscup-dark.svg"><img src="cards/kingscup-light.svg" width="260" alt="King's Cup: mobile party card game"></picture></a>
+  <a href="https://alicenoknow.pl" title="alicenoknow.pl: my site, with projects and how-it's-built write-ups"><img src="icons/site.png" width="132" alt="alicenoknow.pl"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://lekko.space" title="lekko.space: Polish athletics results in an interactive 3D stadium"><img src="icons/lekko.png" width="132" alt="lekko.space"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.alicenoknow.kingscup" title="King's Cup: mobile party card game"><img src="icons/kingscup.png" width="132" alt="King's Cup"></a>
+</p>
+
+<p align="center">
+  <a href="https://alicenoknow.pl">alicenoknow.pl</a> · <a href="https://lekko.space">lekko.space</a> · <a href="https://play.google.com/store/apps/details?id=com.alicenoknow.kingscup">King's Cup</a>
+</p>
+
+<p align="center">
+  <a href="https://lekko.space"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/alicenoknow/alicenoknow/main/stats/lekko-visitors.json" alt="lekko.space visitors in the last 30 days"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.alicenoknow.kingscup"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/alicenoknow/alicenoknow/main/stats/kingscup-downloads.json" alt="King's Cup downloads"></a>
 </p>
 
 <br>

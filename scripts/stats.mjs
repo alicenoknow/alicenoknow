@@ -2,7 +2,6 @@
 // Each source is independent: if one fails, its old badge stays and the run is marked failed.
 import { writeFile } from 'node:fs/promises';
 import gplay from 'google-play-scraper';
-import { buildCards } from './cards.mjs';
 
 const DARK = '1b1b1f';
 let failed = false;
@@ -59,7 +58,5 @@ await source('cloudflare', async () => {
   await badge('lekko-visitors', 'visitors / 30 days', compact(visitors), 'c9c24a', { namedLogo: 'cloudflare' });
   await badge('lekko-pageviews', 'page views / 30 days', compact(pageViews), 'c9c24a');
 });
-
-await buildCards();
 
 if (failed) process.exit(1);
