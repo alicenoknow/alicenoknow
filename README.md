@@ -1,7 +1,7 @@
 <a href="https://alicenoknow.pl"><img src="shark.gif" width="100%" alt="A dithered blue whale shark swims in, eats the letters of 'alicja niewiadomska' and swims away."></a>
 
 <p align="center">
-  <a href="https://alicenoknow.pl"><img src="assets/alicenoknow.jpg" width="96" height="96" alt="alicenoknow icon: a dithered whale shark"></a>
+  <a href="https://alicenoknow.pl"><img src="assets/site-icon.jpg" width="96" height="96" alt="alicenoknow icon: a dithered whale shark"></a>
   <br>
   <b><a href="https://alicenoknow.pl">alicenoknow.pl</a></b>
   <br>
