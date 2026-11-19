@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://alicenoknow.pl"><img src="assets/site-icon.jpg" width="96" height="96" alt="alicenoknow icon: a dithered whale shark"></a>
   <br>
-  <b><a href="https://alicenoknow.pl">alicenoknow.pl</a></b>
+  <a href="https://alicenoknow.pl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-site-dark.svg"><img src="assets/title-site-light.svg" alt="alicenoknow.pl"></picture></a>
   <br>
   <sub>my site: projects and how-it's-built write-ups of animations</sub>
 </p>
@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://lekko.space"><img src="assets/lekko.png" width="96" height="96" alt="lekko.space icon: a dithered athlete clearing a hurdle"></a>
   <br>
-  <b><a href="https://lekko.space">lekko.space</a></b>
+  <a href="https://lekko.space"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-lekko-dark.svg"><img src="assets/title-lekko-light.svg" alt="lekko.space"></picture></a>
   <br>
   <sub>Polish athletics results to explore in an interactive 3D stadium</sub>
   <br>
@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.alicenoknow.kingscup"><img src="assets/kingscup.png" width="96" height="96" alt="King's Cup icon: a gold crown on purple"></a>
   <br>
-  <b><a href="https://play.google.com/store/apps/details?id=com.alicenoknow.kingscup">King's Cup</a></b>
+  <a href="https://play.google.com/store/apps/details?id=com.alicenoknow.kingscup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-kingscup-dark.svg"><img src="assets/title-kingscup-light.svg" alt="King's Cup"></picture></a>
   <br>
   <sub>mobile party card game with 400+ monthly players</sub>
   <br>
