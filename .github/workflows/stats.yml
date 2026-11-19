@@ -1,4 +1,4 @@
-name: Play Store stats
+name: Stats
 
 on:
   schedule:
@@ -17,12 +17,21 @@ jobs:
         with:
           node-version: 22
       - run: npm install --no-save --no-package-lock google-play-scraper@10.1.4
-      - run: node scripts/play-stats.mjs
+      - name: Fetch stats
+        id: fetch
+        continue-on-error: true
+        run: node scripts/stats.mjs
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
       - name: Commit if changed
         run: |
           git add stats
           git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
-          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update Play Store stats"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update stats"
           git push
+      - name: Fail if a source failed
+        if: steps.fetch.outcome == 'failure'
+        run: exit 1
