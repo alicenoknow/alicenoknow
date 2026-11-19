@@ -5,7 +5,7 @@
 - 🃏 **[King's Cup](https://play.google.com/store/apps/details?id=com.alicenoknow.kingscup)**: mobile party game, 9k+ downloads and 400+ monthly users
 
 **[lekko.space](https://lekko.space)**
+
 **[alicenoknow.pl](https://alicenoknow.pl)**
 
-
-[LinkedIn](https://www.linkedin.com/in/alicja-niewiadomska/) · [contact@alicenoknow.pl](mailto:contact@alicenoknow.pl)
+[contact@alicenoknow.pl](mailto:contact@alicenoknow.pl)
