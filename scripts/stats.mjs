@@ -29,12 +29,6 @@ await source('google play', async () => {
   const app = await gplay.app({ appId: 'com.alicenoknow.kingscup' });
   const downloads = app.maxInstalls ?? app.minInstalls;
   await badge('kingscup-downloads', 'downloads', `${Math.floor(downloads / 1000)}k+`, 'f5c518', { namedLogo: 'googleplay' });
-  await badge(
-    'kingscup-rating',
-    'rating',
-    app.score ? `★ ${app.score.toFixed(1)} (${compact(app.ratings)})` : 'not rated yet',
-    app.score ? 'f5c518' : '6e6e73',
-  );
 });
 
 // lekko.space: Cloudflare zone analytics, last 30 full days.
