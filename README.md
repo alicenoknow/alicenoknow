@@ -2,7 +2,7 @@
 
 ### projects
 
-- 🃏 **[King's Cup](https://play.google.com/store/apps/details?id=com.alicenoknow.kingscup)**: mobile party game, 9k+ downloads and 400+ monthly users
+- 🃏 **[King's Cup](https://play.google.com/store/apps/details?id=com.alicenoknow.kingscup)**: mobile party game with 400+ monthly users ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/alicenoknow/alicenoknow/main/stats/kingscup.json)
 
 **[lekko.space](https://lekko.space)**
 
