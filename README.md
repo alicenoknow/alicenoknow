@@ -1,4 +1,4 @@
-<a href="https://alicenoknow.pl"><img src="shark.gif" width="100%" alt="A dithered blue whale shark swims in, eats the letters of 'alicja niewiadomska' and swims away."></a>
+<a href="https://alicenoknow.pl"><img src="shark.webp" width="100%" alt="A dithered blue whale shark swims in, eats the letters of 'alicja niewiadomska' and swims away."></a>
 
 <p align="center">
   <a href="https://alicenoknow.pl" title="alicenoknow.pl: my site, with projects and how-it's-built write-ups"><img src="icons/site.png" width="132" alt="alicenoknow.pl"></a>
